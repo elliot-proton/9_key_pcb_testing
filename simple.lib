@@ -1,0 +1,14 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# resistor
+#
+DEF resistor R 0 40 Y Y 1 F N
+F1 "resistor" 0 0 50 H V C CNN
+DRAW
+X RH 1 -300 0 100 D 50 50 1 1 B
+X RL 2 -600 -400 197 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
